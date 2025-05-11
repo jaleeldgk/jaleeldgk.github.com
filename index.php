@@ -1622,7 +1622,7 @@
                             <li><a href="#portfolio">Portfolio</a></li>
                             <li><a href="#contact">Contact</a></li>
                         </ul>
-                        <p>Copyright &copy; <?php echo date('Y'); ?> Jaleel Ahmad. All Rights Reserved</p>
+                        <p>Copyright &copy; 2025 Jaleel Ahmad. All Rights Reserved</p>
                     </div>
                 </div>
             </div>
